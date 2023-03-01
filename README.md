@@ -18,8 +18,13 @@
   
   Dans un premier temps, vous devrez cloner le projet de gitlab en utilisant la commande suivante :
   
+  SSH:
+
   * `git clone git@github.com:lifeofhoussam/Rock-Paper-Scissors.git`
 
+  HTTPS:
+
+  * `git clone https://github.com/lifeofhoussam/Rock-Paper-Scissors.git`
   
 ## Démarrer le projet
   
