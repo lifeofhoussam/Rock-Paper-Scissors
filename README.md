@@ -16,7 +16,7 @@
 
 ## Instructions
   
-  Dans un premier temps, vous devrez cloner le projet de gitlab en utilisant la commande suivante :
+  Dans un premier temps, vous devrez cloner le projet en utilisant la commande suivante :
   
   SSH:
 
