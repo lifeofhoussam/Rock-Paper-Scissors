@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
+
+<head>
+	<meta charset="UTF-8"/>
+	<title>Rock Paper Scissors - Play</title>
+  <link rel="stylesheet" type="text/css" href="/public/style/style.css">
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="/public/scripts/client.js" defer></script>
+</head>
+
+<body>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a class="active" href="/pfc">Play</a></li>
+    <li><a href="/pfcia">Play AI</a></li>
+	  <li><a href="/about">About</a></li>
+  </ul>
+  <h1>Rock Paper Scissors - Play</h1>
+  <h2 id="messages"></h2>
+  <button id="rock" disabled>Rock</button>
+  <button id="paper" disabled>Paper</button>
+  <button id="scissors" disabled>Scissors</button>
+  <h3 id="waitingmsg"></h3>
+  <div id="playmsg"></div>
+  <div id="oppmsg"></div>
+  <div id="resultmsg"></div>
+  <button id="restart">Restart</button>
+
+</body>
+</html>

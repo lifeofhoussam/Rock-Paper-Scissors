@@ -1,0 +1,19 @@
+{
+  "name": "pfc",
+  "version": "1.0.0",
+  "description": "projet-pfc",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Houssam Loukili",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab-etu.fil.univ-lille.fr/houssam.loukili.etu/tp-projet1-jsfs"
+  }
+}
